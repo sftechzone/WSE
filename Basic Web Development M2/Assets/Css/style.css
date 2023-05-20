@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Monday-Personal Use';
+  src: url('../Fonts/MondayPersonalUse.woff2') format('woff2'),
+    url('../Fonts/MondayPersonalUse.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Monday-Personal Use',cursive;
+}
+
+.my-heading {
+  color: brown;
+  border: 5px solid blue;
+}
